@@ -11,7 +11,8 @@
 
 # Hi there 👋, I’m Tamim Hasan Saykat 
 <div align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Researcher;Undergraduate+Teaching+Assistant;ML+Engineer;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Researcher;Undergraduate+Teaching+Assistant;ML+Engineer;AI+Engineer;" />
+
 </div>
 
 
