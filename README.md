@@ -22,7 +22,7 @@ As an Undergraduate Teaching Assistant (UTA), I actively support students by exp
 
 As an ML Engineer, I focus on developing practical machine learning solutions, working with data preprocessing, feature engineering, model training, and evaluation. I enjoy experimenting with different algorithms and continuously improving model performance.
 
-I value continuous learning, research-driven development, and collaboration, and I am always eager to work on impactful projects that combine research, teaching, and intelligent systems. 🚀
+I value continuous learning, research-driven development, and collaboration, and I am always eager to work on impactful projects that combine research, teaching, and intelligent systems. 
 
 
 ## 🌐 Socials:
