@@ -11,16 +11,17 @@
 
 # Hi there 👋, I’m Tamim Hasan Saykat 
 <div align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Competitive+Programmer;Fullstack+Web+Developer;" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Researcher;Undergraduate+Teaching+Assistant;ML+Engineer;" />
 </div>
 
 
-I’m passionate about solving complex algorithmic problems and building clean, user-friendly, and scalable web applications. I regularly participate in programming contests to sharpen my problem-solving skills and deepen my understanding of data structures and algorithms.
+I am passionate about conducting research, solving complex algorithmic problems, and applying machine learning techniques to real-world challenges. My interests include data analysis, model development, and exploring intelligent systems that can make meaningful impact.
 
-On the development side, I’m focused on creating practical projects using HTML, CSS, JavaScript, React, Go , and MySQL. My current goal is to strengthen my fullstack development skills by working on real-world projects, exploring modern frameworks, and learning best practices for performance and security.
+As an Undergraduate Teaching Assistant (UTA), I actively support students by explaining core concepts, assisting with problem-solving, and helping them build a strong foundation in data structures, algorithms, and programming. Teaching has strengthened my communication skills and deepened my own understanding of fundamental computer science topics.
 
-I enjoy continuous learning, taking on new challenges, and collaborating on impactful projects that make a difference. 🚀
+As an ML Engineer, I focus on developing practical machine learning solutions, working with data preprocessing, feature engineering, model training, and evaluation. I enjoy experimenting with different algorithms and continuously improving model performance.
+
+I value continuous learning, research-driven development, and collaboration, and I am always eager to work on impactful projects that combine research, teaching, and intelligent systems. 🚀
 
 
 ## 🌐 Socials:
