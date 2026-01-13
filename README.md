@@ -25,7 +25,7 @@ I enjoy continuous learning, taking on new challenges, and collaborating on impa
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamim-hasan-saykat-8774b7350/)
-
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Tamim-Saykat)
 
 
  
