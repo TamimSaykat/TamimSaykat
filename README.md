@@ -1,0 +1,82 @@
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=TamimSaykat&label=Profile%20Views&color=1447e6&style=for-the-badge" 
+    alt="Tamim Profile Views" 
+  />
+</p>
+
+
+
+![Your Alt Text](/iko2.gif)
+
+# Hi there 👋, I’m Tamim Hasan Saykat 
+<div align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Competitive+Programmer;Fullstack+Web+Developer;" />
+
+</div>
+
+
+I’m passionate about solving complex algorithmic problems and building clean, user-friendly, and scalable web applications. I regularly participate in programming contests to sharpen my problem-solving skills and deepen my understanding of data structures and algorithms.
+
+On the development side, I’m focused on creating practical projects using HTML, CSS, JavaScript, React, Go , and MySQL. My current goal is to strengthen my fullstack development skills by working on real-world projects, exploring modern frameworks, and learning best practices for performance and security.
+
+I enjoy continuous learning, taking on new challenges, and collaborating on impactful projects that make a difference. 🚀
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamim-hasan-saykat-8774b7350/)
+
+
+
+ 
+
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+## 📈 GitHub Streak Stats
+
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=TamimSaykat&theme=vision-friendly-dark&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="60%"
+  />
+</p>
+
+
+
+
+## 📊 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TamimSaykat&theme=react-dark&hide_border=true&area=true" width="60%" />
+</div>
+
+  
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mahfuz5634&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in
