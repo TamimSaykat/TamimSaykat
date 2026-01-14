@@ -55,17 +55,6 @@ I value continuous learning, research-driven development, and collaboration, and
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 📈 GitHub Streak Stats
-
-<p align="center">
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=TamimSaykat&theme=vision-friendly-dark&hide_border=true"
-    alt="GitHub Streak Stats"
-    width="60%"
-  />
-</p>
-
-
 
 
 ## 📊 GitHub Activity Graph
