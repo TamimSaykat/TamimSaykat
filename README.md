@@ -57,11 +57,6 @@ I value continuous learning, research-driven development, and collaboration, and
 
 
 
-## 📊 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TamimSaykat&theme=react-dark&hide_border=true&area=true" width="60%" />
-</div>
 
  <h2> Contributions </h2>
 
