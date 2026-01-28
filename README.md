@@ -49,7 +49,7 @@ I value continuous learning, research-driven development, and collaboration, and
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%2300AEEF.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/google_colab-%234285F4.svg?style=for-the-badge&logo=google-colab&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
