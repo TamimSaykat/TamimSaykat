@@ -22,7 +22,8 @@ I’m Md. Tamim Hasan Saykat, an undergraduate student in Computer Science and E
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamim-hasan-saykat-8774b7350/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Tamim-Saykat)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:2022-1-60-289@std.ewubd.edu?subject=Hello%20Tamim&body=Hi%20Tamim,%0A)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=2022-1-60-289@std.ewubd.edu)
+
 
 
 
