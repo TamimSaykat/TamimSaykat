@@ -9,14 +9,14 @@
 
 ![Your Alt Text](/Tamim.gif)   
 
-# Hi there 👋, I’m Tamim Hasan Saykat 
+# Hi there 👋, I’m Md. Tamim Hasan Saykat 
 <div align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Researcher;Undergraduate+Teaching+Assistant;ML+Engineer;AI+Engineer;" />
 
 </div>
 
 
-I’m Md. Tamim Hasan Saykat, an undergraduate student in Computer Science and Engineering (CSE) at East West University, passionate about Generative AI (GenAI), Large Language Models (LLMs), and Natural Language Processing (NLP).My interests include building scalable AI-powered applications, exploring fine-tuning and prompt engineering, and developing retrieval-augmented generation (RAG) systems that turn research ideas into reliable software.Currently, I serve as an Undergraduate Teaching Assistant (UTA), supporting Math 101 (Differential & Integral Calculus), Math 102 (Differential Equations & Special Functions), and Linear Algebra by conducting tutorial sessions, grading assignments and assessments, and providing one-on-one guidance to help students strengthen their problem-solving skills and conceptual understanding.I value continuous learning, research-driven development, and collaboration, and I am always eager to work on impactful projects that combine research, teaching, and intelligent systems. 
+I’m Tamim, an undergraduate student in Computer Science and Engineering (CSE) at East West University, passionate about Generative AI (GenAI), Large Language Models (LLMs), and Natural Language Processing (NLP).My interests include building scalable AI-powered applications, exploring fine-tuning and prompt engineering, and developing retrieval-augmented generation (RAG) systems that turn research ideas into reliable software.Currently, I serve as an Undergraduate Teaching Assistant (UTA), supporting Math 101 (Differential & Integral Calculus), Math 102 (Differential Equations & Special Functions), and Linear Algebra by conducting tutorial sessions, grading assignments and assessments, and providing one-on-one guidance to help students strengthen their problem-solving skills and conceptual understanding.I value continuous learning, research-driven development, and collaboration, and I am always eager to work on impactful projects that combine research, teaching, and intelligent systems. 
 
 
 ## 🌐 Socials:
