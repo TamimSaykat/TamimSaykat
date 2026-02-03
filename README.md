@@ -16,7 +16,11 @@
 </div>
 
 
-I’m Tamim, an undergraduate student in Computer Science and Engineering (CSE) at East West University, passionate about Generative AI (GenAI), Large Language Models (LLMs), and Natural Language Processing (NLP). My interests include building scalable AI-powered applications, exploring fine-tuning and prompt engineering, and developing retrieval-augmented generation (RAG) systems that turn research ideas into reliable software. Currently, I serve as an Undergraduate Teaching Assistant (UTA), supporting Math 101 (Differential & Integral Calculus), Math 102 (Differential Equations & Special Functions), and Linear Algebra by conducting tutorial sessions, grading assignments and assessments, and providing one-on-one guidance to help students strengthen their problem-solving skills and conceptual understanding. I value continuous learning, research-driven development, and collaboration, and I am always eager to work on impactful projects that combine research, teaching, and intelligent systems. 
+I’m Tamim, an undergraduate student in Computer Science and Engineering (CSE) at East West University, passionate about Generative AI (GenAI), Large Language Models (LLMs), and Natural Language Processing (NLP). My interests include building scalable AI-powered applications, exploring fine-tuning and prompt engineering, and developing retrieval-augmented generation (RAG) systems that turn research ideas into reliable software. 
+
+Currently, I serve as an Undergraduate Teaching Assistant (UTA), supporting Math 101 (Differential & Integral Calculus), Math 102 (Differential Equations & Special Functions), and Linear Algebra by conducting tutorial sessions, grading assignments and assessments, and providing one-on-one guidance to help students strengthen their problem-solving skills and conceptual understanding.
+
+I value continuous learning, research-driven development, and collaboration, and I am always eager to work on impactful projects that combine research, teaching, and intelligent systems. 
 
 
 ## 🌐 Socials:
