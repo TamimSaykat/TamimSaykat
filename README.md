@@ -16,18 +16,13 @@
 </div>
 
 
-I am passionate about conducting research, solving complex algorithmic problems, and applying machine learning techniques to real-world challenges. My interests include data analysis, model development, and exploring intelligent systems that can make meaningful impact.
-
-As an Undergraduate Teaching Assistant (UTA), I actively support students by explaining core concepts, assisting with problem-solving, and helping them build a strong foundation in data structures, algorithms, and programming. Teaching has strengthened my communication skills and deepened my own understanding of fundamental computer science topics.
-
-As an ML Engineer, I focus on developing practical machine learning solutions, working with data preprocessing, feature engineering, model training, and evaluation. I enjoy experimenting with different algorithms and continuously improving model performance.
-
-I value continuous learning, research-driven development, and collaboration, and I am always eager to work on impactful projects that combine research, teaching, and intelligent systems. 
+I’m Md. Tamim Hasan Saykat, an undergraduate student in Computer Science and Engineering (CSE) at East West University, passionate about Generative AI (GenAI), Large Language Models (LLMs), and Natural Language Processing (NLP).My interests include building scalable AI-powered applications, exploring fine-tuning and prompt engineering, and developing retrieval-augmented generation (RAG) systems that turn research ideas into reliable software.Currently, I serve as an Undergraduate Teaching Assistant (UTA), supporting Math 101 (Differential & Integral Calculus), Math 102 (Differential Equations & Special Functions), and Linear Algebra by conducting tutorial sessions, grading assignments and assessments, and providing one-on-one guidance to help students strengthen their problem-solving skills and conceptual understanding.I value continuous learning, research-driven development, and collaboration, and I am always eager to work on impactful projects that combine research, teaching, and intelligent systems. 
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamim-hasan-saykat-8774b7350/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Tamim-Saykat)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:2022-1-60-289@std.ewubd.edu)
 
 
  
