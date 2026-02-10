@@ -55,6 +55,12 @@ I value continuous learning, research-driven development, and collaboration, and
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+## 🤖 Advanced AI Skills:
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge&logo=robotframework&logoColor=white)
+![SFT](https://img.shields.io/badge/Supervised%20Fine--Tuning-SFT-8A2BE2?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-Parameter%20Efficient%20Tuning-FF4B4B?style=for-the-badge)
+
 
 
 
