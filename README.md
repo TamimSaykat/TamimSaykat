@@ -11,16 +11,16 @@
 
 # Hi there 👋, I’m Md. Tamim Hasan Saykat 
 <div align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Researcher;Undergraduate+Teaching+Assistant;ML+Engineer;AI+Engineer;" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=false&vCenter=true&width=500&lines=Research+Assistant;Undergraduate+Teaching+Assistant;" />
 </div>
 
 
-I’m Tamim, an undergraduate student in Computer Science and Engineering (CSE) at East West University, passionate about Generative AI (GenAI), Large Language Models (LLMs), and Natural Language Processing (NLP). My interests include building scalable AI-powered applications, exploring fine-tuning and prompt engineering, and developing retrieval-augmented generation (RAG) systems that turn research ideas into reliable software. 
 
-Currently, I serve as an Undergraduate Teaching Assistant (UTA), supporting Math 101 (Differential & Integral Calculus), Math 102 (Differential Equations & Special Functions), and Linear Algebra by conducting tutorial sessions, grading assignments and assessments, and providing one-on-one guidance to help students strengthen their problem-solving skills and conceptual understanding.
+I’m Tamim, an undergraduate student in Computer Science and Engineering (CSE) at East West University, passionate about Generative AI (GenAI), Large Language Models (LLMs), and Natural Language Processing (NLP). My research field includes Deep Learning (DL), NLP, LLMs, and low-resource domains, where I’m especially interested in  building scalable AI-powered applications, exploring fine-tuning and prompt engineering, and developing retrieval-augmented generation (RAG) systems that turn research ideas into reliable software.
 
-I value continuous learning, research-driven development, and collaboration, and I am always eager to work on impactful projects that combine research, teaching, and intelligent systems. 
+Currently, I work remotely as a **Research Assistant (RA)** in the **Multimedia Signal & Image Processing research group** at **Endicott College, Woosong University (Daejeon, South Korea)** (Sep 2025 – Present), contributing to research and development efforts at the intersection of intelligent systems and real-world applications.
+
+Alongside research, I serve as an **Undergraduate Teaching Assistant (UTA)**, supporting **Math 101 (Differential & Integral Calculus)**, **Math 102 (Differential Equations & Special Functions)**, and **Math 104 (Linear Algebra)** by conducting tutorial sessions, grading assignments and assessments, and providing one-on-one guidance to strengthen students’ problem-solving skills and conceptual understanding.
 
 
 ## 🌐 Socials:
