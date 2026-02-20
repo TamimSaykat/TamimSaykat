@@ -18,7 +18,7 @@
 
 I’m Tamim, an undergraduate student in Computer Science and Engineering (CSE) at East West University, passionate about Generative AI (GenAI), Large Language Models (LLMs), and Natural Language Processing (NLP). My research field includes Deep Learning (DL), NLP, LLMs, and low-resource domains, where I’m especially interested in  building scalable AI-powered applications, exploring fine-tuning and prompt engineering, and developing retrieval-augmented generation (RAG) systems that turn research ideas into reliable software.
 
-Currently, I work remotely as a **Research Assistant (RA)** in the **Multimedia Signal & Image Processing research group** at **Endicott College, Woosong University (Daejeon, South Korea)** (Sep 2025 – Present), contributing to research and development efforts at the intersection of intelligent systems and real-world applications.
+Currently, I work remotely as a **Research Assistant (RA)** in the **Multimedia Signal & Image Processing research group** at **Endicott College, Woosong University (Daejeon, South Korea)**, contributing to research and development efforts at the intersection of intelligent systems and real-world applications.
 
 Alongside research, I serve as an **Undergraduate Teaching Assistant (UTA)**, supporting **Math 101 (Differential & Integral Calculus)**, **Math 102 (Differential Equations & Special Functions)**, and **Math 104 (Linear Algebra)** by conducting tutorial sessions, grading assignments and assessments, and providing one-on-one guidance to strengthen students’ problem-solving skills and conceptual understanding.
 
